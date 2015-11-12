@@ -17,5 +17,5 @@ Ensonhaber.com - API
 - http://www.ensonhaber.com/esh/android/v2/newsdetail.php?id=[HABERID]
 - [HABERID] yerine Manşet ve Haber Listesi bölümlerindeki haber ID'si eklenecektir.
 
-
+======
 * Galeriler ve yeni eklemeler yakın zamanda eklenecektir. Görüşlerinizi lütfen iletiniz: prosman@gmail.com
