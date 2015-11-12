@@ -17,5 +17,14 @@ Ensonhaber.com - API
 - http://www.ensonhaber.com/esh/android/v2/newsdetail.php?id=[HABERID]
 - [HABERID] yerine Manşet ve Haber Listesi bölümlerindeki haber ID'si eklenecektir.
 
+### GALERİ LİSTESİ (Ensonhaber.com)
+- http://www.ensonhaber.com/esh/android/v2/galerilist.php?categoryID=[CATID]&l=20&s=[SAYFANO]
+- [CATID] yerine Kategoriler dosyasındaki Galeri bölümündeki kategori ID'si eklenecektir.
+- [SAYFANO] yerine nümerik olarak numara yazılacaktır.
+
+### GALERİ DETAY (Ensonhaber.com)
+- http://www.ensonhaber.com/esh/android/v2/galeridetail.php?id=[GALERIID]
+- [GALERIID] yerine Galeri Listesi bölümlerindeki galeri ID'si eklenecektir.
+
 ======
-* Galeriler ve yeni eklemeler yakın zamanda eklenecektir. Görüşlerinizi lütfen iletiniz: prosman@gmail.com
+Görüşlerinizi lütfen iletiniz: prosman@gmail.com
